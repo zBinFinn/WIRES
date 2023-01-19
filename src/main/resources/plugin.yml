@@ -1,0 +1,13 @@
+name: FirstPlugin
+version: '${project.version}'
+main: me.zbinfinn.firstplugin.Main
+api-version: 1.19
+commands:
+  killall:
+    description: Kills all non-player entities.
+  uwuify:
+    description: UwUifies the chat.
+  getstaff:
+    description: Gets the area select and update Staff.
+  tick:
+    description: Runs an electricity-tick.
